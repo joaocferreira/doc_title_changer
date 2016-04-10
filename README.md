@@ -1,9 +1,4 @@
-# base_generator
-
+# Doc title changer
 ___
 
-### Steps
-
-1. Clone
-2. npm install
-3. gulp dev
+If user leaves the window change the title of the document
